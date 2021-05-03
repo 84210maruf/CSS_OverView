@@ -1,18 +1,35 @@
-.box{
+body{
+    color: wheat;
+    height: auto;
+    width: auto;
+    padding: 10px;
+    margin: 10px;
+    background-image: url(./img/np01.png);
+    background-size: cover;
+    
+
+}
+
+.box1{
     height: 150px;
     width: 500px;
     padding: 10px;
     margin: auto;
     border: 5px solid black;
-    background-color: rgb(196, 35, 110);
+    background-image:url(./img/nature01.jpg);
+    background-size: contain;
 
 }
 .box2{
+    
     height: 150px;
     width: 500px;
     padding: 10px;
     margin: auto;
-    border: 5px solid black;
-    background-color: rgb(196, 35, 110);
+    border: 5px solid rgb(61, 96, 172);
+    color: crimson;
+    background-image: url(./img/nature03.jpg);
+    background-size:cover;
+    
 
 }
