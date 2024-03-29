@@ -1,1 +1,3 @@
+FontNinja extention for chrome and it's find the font hight, wight, font-Family etc
+
 Its a practice session for only css font through "FontNinja" with TheameForest.
