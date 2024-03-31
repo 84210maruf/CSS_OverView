@@ -41,7 +41,6 @@ h2{
 .flxDiv{
     display: flex;
     flex-wrap: wrap;
-    margin-right: -7px;
 }
 .flx2box{
     display: flex;
