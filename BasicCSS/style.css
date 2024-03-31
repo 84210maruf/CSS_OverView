@@ -34,10 +34,20 @@ h2{
 
 }
 .box_right{
-    margin-left: 200px;
-    right: inherit;
+    margin-left: auto;
+    margin-right: 0px;
+    
 }
 .flxDiv{
     display: flex;
     flex-wrap: wrap;
+    margin-right: -7px;
+}
+.flx2box{
+    display: flex;
+    justify-content:space-between;
+    margin-right: -7px;
+}
+.B{
+    margin-right: 0;
 }
