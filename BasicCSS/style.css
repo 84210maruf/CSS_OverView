@@ -38,6 +38,11 @@ h2{
     margin-right: 0px;
     
 }
+.flxTop{
+    height: 230px;
+    display: flex;
+    justify-content: space-around;
+}
 .flxDiv{
     display: flex;
     flex-wrap: wrap;
